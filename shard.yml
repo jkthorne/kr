@@ -1,0 +1,9 @@
+name: kr
+version: 0.1.0
+
+authors:
+  - = <=>
+
+crystal: '>= 1.15.1'
+
+license: MIT
